@@ -12,4 +12,4 @@ Resultados:
 
 Lições aprendidas:
 
-Pude perceber na prática o poder do reconhecimento de imagens da IA, que consegue extrair detalhes precisos e trasncrever textos eventualente presentes com precisão!
+Pude perceber na prática o poder do reconhecimento de imagens da IA, que consegue extrair detalhes precisos e trasncrever textos eventualmente presentes com precisão!
